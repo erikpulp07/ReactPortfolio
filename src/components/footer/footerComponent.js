@@ -27,6 +27,6 @@ class FooterComponent extends Component {
     }
   }
   
-export default HeroComponent;
+export default FooterComponent;
 
 
