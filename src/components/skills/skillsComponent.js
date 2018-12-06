@@ -16,7 +16,7 @@ export default class SkillComponent extends Component {
           <div className="service__img col-auto" style={{backgroundImage: `url(${image1})`}}></div>
           <div className="service-text col-auto">
             <div className="service__title">My service # 1</div>
-            <div className="service__description">This is my service description, remember remove default text from here.</div>
+            <div className="service__description">Developing web apps in .net, java, reactJs and Angular</div>
           </div>
         </div>
         <div className="service row" style={{backgroundImage: `url(${image2})`}}>
